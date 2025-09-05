@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Tập 1",
+        "description": "Mô tả ngắn về tập 1 của bộ phim.",
+        "link": "#"
+    },
+    {
+        "id": 2,
+        "title": "Tập 2",
+        "description": "Mô tả ngắn về tập 2 của bộ phim.",
+        "link": "#"
+    },
+    {
+        "id": 3,
+        "title": "Tập 3",
+        "description": "Mô tả ngắn về tập 3 của bộ phim.",
+        "link": "#"
+    },
+    {
+        "id": 4,
+        "title": "Tập 4",
+        "description": "Mô tả ngắn về tập 4 của bộ phim.",
+        "link": "#"
+    }
+]
